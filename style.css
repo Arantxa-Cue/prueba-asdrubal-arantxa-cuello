@@ -1,0 +1,25 @@
+/*
+Theme Name: prueba-asdrubal-arantxa-cuello
+Author: Arantxa Cuello
+Version: 1.0
+Description: Prueba asdrubal.
+*/
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f0f0;
+}
+
+header, footer {
+  background: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+  
